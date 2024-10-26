@@ -1,0 +1,8 @@
+{
+  "dependencies": {
+    "@capacitor-community/image-to-text": "^6.0.1",
+    "@capacitor/camera": "^6.1.0",
+    "@capacitor/cli": "^6.1.2",
+    "@capacitor/core": "^6.1.2"
+  }
+}
