@@ -1,0 +1,7 @@
+{
+  "name": "Spendilog",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
